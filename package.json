@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "sqlite3": "^5.0.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "blog.diltzy.xyz",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diltz/blog.diltzy.xyz.git"
+  },
+  "author": "Diltz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diltz/blog.diltzy.xyz/issues"
+  },
+  "homepage": "https://github.com/Diltz/blog.diltzy.xyz#readme",
+  "description": ""
+}

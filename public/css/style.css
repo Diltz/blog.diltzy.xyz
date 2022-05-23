@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+
+.news {
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    height: 50%;
+    width: 30%;
+}
+
+.news .example {
+    width: 90%;
+    height: 25%;
+    margin: auto;
+    background-color: blue;
+}
